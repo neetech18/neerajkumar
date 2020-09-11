@@ -40,6 +40,12 @@ date_format = "Jan 2006"
   location = "India"
   date_start = "2016-01-01"
   date_end = "2019-09-01"
-  description = """Perform Web, Mobile, API, infrastructure Pentesting"""
-
+  Responsibilities include:
+  Pentesting
+  
+  * Web application, Mobile and API, Thick Client application pentesting of applications from various industries.
+  * Infrastructure Pentesting.
+  * Woring with Different Banks and Telicome sectors for acheiving the PCI DSS Standard.
+  * Researching for new attacks and techniques for pentesting.
+  
 +++
