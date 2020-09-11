@@ -32,7 +32,6 @@ date_format = "Jan 2006"
   * Infrastructure Pentesting.
   * Researching for new attacks and techniques for pentesting.
   """
-  """
 [[experience]]
   title = "Lead Security Consultant"
   company = "ControlCase International Pvt Ltd"
@@ -40,6 +39,7 @@ date_format = "Jan 2006"
   location = "India"
   date_start = "2016-01-01"
   date_end = "2019-09-01"
+  description = """
   Responsibilities include:
   Pentesting
   
