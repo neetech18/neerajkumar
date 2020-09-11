@@ -18,27 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Security Consultant"
+  title = "Senior Security Consultant"
   company = "NotSoSecure"
   company_url = "https://notsosecure.com/"
   location = "India"
-  date_start = "2019-08-01"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
   Responsibilities include:
+  Pentesting
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Web application, Mobile and API pentesting of applications from various industries.
+  * Infrastructure Pentesting.
+  * Researching for new attacks and techniques for pentesting.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Lead Security Consultant"
+  company = "ControlCase International Pvt Ltd"
+  company_url = "https://www.controlcase.com/"
+  location = "India"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2019-09-01"
+  description = """Perform Web, Mobile, API, infrastructure Pentesting"""
 
 +++
