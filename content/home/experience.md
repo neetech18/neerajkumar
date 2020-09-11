@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Infrastructure Pentesting.
   * Researching for new attacks and techniques for pentesting.
   """
-
+  """
 [[experience]]
   title = "Lead Security Consultant"
   company = "ControlCase International Pvt Ltd"
