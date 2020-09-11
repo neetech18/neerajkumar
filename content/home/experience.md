@@ -47,5 +47,5 @@ date_format = "Jan 2006"
   * Infrastructure Pentesting.
   * Woring with Different Banks and Telicome sectors for acheiving the PCI DSS Standard.
   * Researching for new attacks and techniques for pentesting.
-  
+  """
 +++
