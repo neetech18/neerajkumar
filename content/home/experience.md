@@ -45,7 +45,9 @@ date_format = "Jan 2006"
   
   * Web application, Mobile and API, Thick Client application pentesting of applications from various industries.
   * Infrastructure Pentesting.
-  * Woring with Different Banks and Telicome sectors for acheiving the PCI DSS Standard.
+  * Working with Different Banks and Telicome sectors for acheiving the PCI DSS Standard.
   * Researching for new attacks and techniques for pentesting.
   """
+  
+  
 +++
