@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Neeraj Kumar
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Security Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: NotSoSecure
+  url: "https://notsosecure.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Web Application
+- Mobile Application
+- Infrastructure Pentesting
 
 education:
   courses:
